@@ -1,0 +1,32 @@
+_repo: The-Satires-of-Juvenal-Persius-Sulpicia-and-Lucilius_50657
+creator:
+  authors:
+  - agent_name: Evans, Rev. Lewis
+    gutenberg_agent_id: '46024'
+    url: http://www.gutenberg.org/2009/agents/46024
+  - agent_name: Persius
+    aliases:
+    - Flaccus, Aulus Persius
+    - Persius, Paulus Flaccus
+    gutenberg_agent_id: '25123'
+    url: http://www.gutenberg.org/2009/agents/25123
+  - agent_name: Gifford, William
+    gutenberg_agent_id: '46025'
+    url: http://www.gutenberg.org/2009/agents/46025
+  - agent_name: Sulpicia
+    gutenberg_agent_id: '46023'
+    url: http://www.gutenberg.org/2009/agents/46023
+  - agent_name: Juvenal, Decimus Junius
+    gutenberg_agent_id: '46022'
+    url: http://www.gutenberg.org/2009/agents/46022
+description: ''
+gutenberg_issued: '2015-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Satires of Juvenal, Persius, Sulpicia, and Lucilius
+url: http://www.gutenberg.org/ebooks/50657
